@@ -32,7 +32,7 @@ var articleone = {
         var heading = data.heading;
         var content = data.content;
 
-    var htmlTemplet = `
+    var htmlTemplatet = `
     <html>
     <head>
         <title>

@@ -32,8 +32,8 @@ var articleone = {
         var date = data.date;
         var heading = data.heading;
         var content = data.content;
-
-    var htmlTemplatet = `
+        
+        var htmlTemplatet = `
                 <html>
                     <head>
                         <title>
@@ -62,7 +62,7 @@ var articleone = {
                 </html>
                 `;
                 return htmlTemplate;
-}
+    }
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });

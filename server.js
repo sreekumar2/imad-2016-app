@@ -26,12 +26,15 @@ var articleone = {
                  This will be my first article.
              </p>`
      };
-function createTemplate (data) {
-var title = data.title;
-var date = data.date;
-var heading = data.heading;
-var content = data.content;
-var htmlTemplet = ` <head>
+    function createTemplate (data) {
+        var title = data.title;
+        var date = data.date;
+        var heading = data.heading;
+        var content = data.content;
+
+    var htmlTemplet = `
+    <html>
+    <head>
         <title>
             ${title}
         </title>

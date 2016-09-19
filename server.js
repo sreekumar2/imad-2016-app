@@ -33,32 +33,32 @@ var articleone = {
         var content = data.content;
 
     var htmlTemplatet = `
-    <html>
-    <head>
-        <title>
-           ${title}
-        </title>
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link href="/ui/style.css" rel="stylesheet" />
-    </head>
-    <body>
-        <div class="cointainer">
-            <div>
-               <a href="/">home</a>
+        <html>
+        <head>
+            <title>
+               ${title}
+            </title>
+            <meta name="viewport" content="width=device-width, initial-scale=1" />
+            <link href="/ui/style.css" rel="stylesheet" />
+        </head>
+        <body>
+            <div class="cointainer">
+                <div>
+                   <a href="/">home</a>
+                </div>
+                <hr/>
+                <h3>
+                    ${heading}
+                </h3>
+                <div>
+                    ${date}
+                </div>
+                <div>
+                    ${conent}
+                </div>
             </div>
-            <hr/>
-            <h3>
-                ${heading}
-            </h3>
-            <div>
-                ${date}
-            </div>
-            <div>
-                ${conent}
-            </div>
-        </div>
-    </body>
-</html>
+        </body>
+    </html>
 
 `;
 return htmlTemplate;

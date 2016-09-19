@@ -56,10 +56,6 @@ var htmlTemplet = ` <head>
         </div>
     </body>
 </html>
-
-
-
-
 `;
 return htmlTemplate;
 }

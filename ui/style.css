@@ -19,4 +19,12 @@ body {
 .img-medium {
     height: 200px;
 }
-
+    .cointainer {
+        max-width: 800px;
+        margin: 0 auto;
+        color: #050596;
+        font-family: sans-serif;
+        padding-top: 100;
+        padding-left: 20;
+        padding-right: 10;
+        }

@@ -55,7 +55,7 @@ var articleone = {
                                 ${date}
                             </div>
                             <div>
-                                ${conent}
+                                ${content}
                             </div>
                         </div>
                     </body>

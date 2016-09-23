@@ -27,6 +27,7 @@ var articles = {
                  This will be my first article.This will be my first article.This will be my first article.
                  This will be my first article.
              </p>`
+    },
      `article-two`:{
          title: 'Article two 2 sreekumar',
     heading: 'Article two',

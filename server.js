@@ -103,8 +103,8 @@ app.get('/ui/styles.css', function (req, res){
    res.sendfile(path.join(__dirname, 'ui', 'style.css'));
 });
 
-app.get('/ui/main.css', function (req, res){
-   res.sendfile(path.join(__dirname, 'ui', 'main.css'));
+app.get('/ui/main.js', function (req, res){
+   res.sendfile(path.join(__dirname, 'ui', 'main.js'));
 });
 
 app.get('/ui/madi.png', function (req, res){

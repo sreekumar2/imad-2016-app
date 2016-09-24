@@ -7,7 +7,7 @@ app.use(morgan('combined'));
 
 
 var articles = {
-       `article-one` :{
+    `article-one` :{
    title: 'Article one | sreekumar',
     heading: 'Article one',
     date: 'sep19 ,2016',
@@ -47,6 +47,7 @@ var articles = {
                    This will be my third article.
              </p>`
              }
+    
 };
 
 function createTemplate (data) {

@@ -9,7 +9,7 @@ element.innerhtml = 'New value';
 var img = document.getElementById('madi');
 var margingLeft = 0;
 function novwRight () {
-    marginLeft = marginLeft +5;
+    marginLeft = marginLeft +1;
     img.style.marginLeft = marginLeft + 'px';
     
 }

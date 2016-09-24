@@ -38,7 +38,7 @@ var articles = {
                    This will be my second article.This will be my second article.
              </p>`   
        },
-       `article-three:{
+       `article-three`:{
       title: 'Article three | sreekumar',
     heading: 'Article three',
     date: 'sep21 ,2016',

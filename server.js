@@ -47,8 +47,8 @@ var articles = {
                    This will be my third article.
              </p>`
              }
-    
-};
+    };
+
 
 function createTemplate (data) {
         var title = data.title;

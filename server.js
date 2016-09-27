@@ -65,13 +65,18 @@ var htmlTemplate = `
                         <meta name="viewport" content="width=device-width, initial-scale=1" />
                         <style>
                         .cointainer {
-                                max-width: 800px;
-                                margin: 0 auto;
-                                color: #050596;
-                                font-family: sans-serif;
-                                padding-left: 20px;
-                                padding-right: 20px;
-                                     }
+                max-width: 800px;
+                margin: 0 auto;
+                color: #f34905;
+                font-family: sans-serif;
+                padding-left: 20px;
+                padding-right: 20px;
+                padding-top: 20px;
+                }
+
+
+
+
                   </style>
                     </head>
                     <body>

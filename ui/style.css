@@ -21,8 +21,9 @@ body {
 .cointainer {
     max-width: 800px;
     margin: 0 auto;
-    color: #050596;
+    color: #f34905;
     font-family: sans-serif;
     padding-left: 20px;
     padding-right: 20px;
- }
+    padding-top: 20px;
+}

@@ -92,11 +92,11 @@ app.get('/', function (req, res){
    res.sendfile(path.join(__dirname, 'ui', 'index.html')); 
 });
     
-app.get('/:articlename', function (req, res){
+app.get('/:articleName', function (req, res){
     //articlenmae==article-one
-    //articles[articlename] == {} content object for article one
-    var articleName = req.params.articlename;
-   res.send(createTemplate(articles[articlename]));
+    //articles[articleName] == {} content object for article one
+    var articleName = req.params.articleName;
+   res.send(createTemplate(articles[articleName]));
 });
 
 app.get('/ui/styles.css', function (req, res){

@@ -63,6 +63,7 @@ var htmlTemplate = `
                            ${title}
                         </title>
                         <meta name="viewport" content="width=device-width, initial-scale=1" />
+                        <style>
                         .cointainer {
                                 max-width: 800px;
                                 margin: 0 auto;
@@ -72,7 +73,7 @@ var htmlTemplate = `
                                 padding-right: 20px;
                                
                 }
-                        
+                        </style>
                     </head>
                     <body>
                         <div class="cointainer">

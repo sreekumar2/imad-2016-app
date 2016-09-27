@@ -63,7 +63,15 @@ var htmlTemplate = `
                            ${title}
                         </title>
                         <meta name="viewport" content="width=device-width, initial-scale=1" />
-                        <link href="/ui/style.css" rel="stylesheet" />
+                        .cointainer {
+                                max-width: 800px;
+                                margin: 0 auto;
+                                color: #f34905;
+                                font-family: sans-serif;
+                                padding-left: 20px;
+                                padding-right: 20px;
+                               
+                }
                         
                     </head>
                     <body>

@@ -7,7 +7,7 @@ element.innerHTML = 'Hello sree';
 
 //move the image
 var img = document.getElementById('madi');
-var margingLeft = 0;
+var marginLeft = 0;
 function moveRight () {
     marginLeft = marginLeft + 1;
     img.style.marginLeft = marginLeft + 'px';

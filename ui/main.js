@@ -7,7 +7,6 @@ element.innerHTML = 'Hello sree';
 
 //move the image
 var img = document.getElementById('madi'); 
-img.oneclick = function (){
-  img.style.marginLeft = "100px";
- 
-};
+img.oneclick = function () {
+  img.style.marginLeft = '100px';
+ };

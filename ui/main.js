@@ -5,3 +5,8 @@ var element  = document.getElementById('main-text'
 );
 element.innerHTML = 'Hello HI';
 
+var img = document.getElementById('madi'); 
+img.oneclick = function (){
+  img.style.marginLeft = "100px";
+ 
+};

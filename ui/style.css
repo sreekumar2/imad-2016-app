@@ -19,8 +19,7 @@ body {
     height: 200px;
 }
 .cointainer {
-    background: #202024 url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp1-NNfLpNtsFQY25z7A4u9pp2D_vJHTNU70RDupydx4i7BrMKYw') repeat left top;
-  
+   
     max-width: 800px;
     margin: 0 auto;
     color: #f34905;

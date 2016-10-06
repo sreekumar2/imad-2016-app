@@ -19,7 +19,7 @@ body {
     height: 200px;
 }
 .cointainer {
-   
+    background: url('https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-1/01/background.jpg') center center;
     max-width: 800px;
     margin: 0 auto;
     color: #f34905;

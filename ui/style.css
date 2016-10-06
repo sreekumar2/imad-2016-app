@@ -19,6 +19,11 @@ body {
     height: 200px;
 }
 .cointainer {
+    background: #202024 url('http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png') repeat left top;
+  left: -285px;  /* start off behind the scenes */
+  height: 100%;
+  position: fixed;
+  width: 285px;
     max-width: 800px;
     margin: 0 auto;
     color: #f34905;

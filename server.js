@@ -16,7 +16,7 @@ var articles = {
                    This will be my first article.This will be my first article.This will be my first article.
                    This will be my first article.This will be my first article.This will be my first article.
                    This will be my first article.
-            </p> <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnaeoopf_hCSU5hjdDvtAulvyy1-BHbQmkEnhGjYbcl19Gusnb/>
+            </p>
              <p>
                  This will be my first article.This will be my first article.This will be my first article.
                  This will be my first article.This will be my first article.This will be my first article.

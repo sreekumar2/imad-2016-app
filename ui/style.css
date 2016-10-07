@@ -50,3 +50,7 @@ div.container {
     padding-left: 200px;
     padding-right: 200px;
 }
+a {
+  color: SeaGreen;
+  text-decoration: none;
+}
